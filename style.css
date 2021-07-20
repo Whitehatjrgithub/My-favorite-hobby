@@ -1,0 +1,23 @@
+body {
+     background: linear-gradient(#FF002B 0%, #FF00E1 100%);
+    background-repeat: no-repeat;
+    text-align: center;
+    
+}
+
+h1{
+    text-shadow:2px 2px #F8BBD0;
+    font-size: 20px;
+}
+
+.profile{
+    border-radius: 50%;
+    width: 1000px;
+    
+}
+
+#bio{
+    padding: 20px;
+    font-size:18px;
+    text-align: center;
+}
